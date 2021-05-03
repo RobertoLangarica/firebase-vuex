@@ -20,7 +20,6 @@ module.exports = {
     'prefer-const':'warn',
     '@typescript-eslint/interface-name-prefix':'off',
     "camelcase": "off",
-    "@typescript-eslint/camelcase": 'warn'
   },
   overrides: [
     {

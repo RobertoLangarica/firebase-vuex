@@ -9,6 +9,3 @@ npm install
 ```
 npm run serve
 ```
-
-### Example execution flow
-
