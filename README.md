@@ -1,5 +1,5 @@
 # example-firebase-vuex
-
+Basic vue3+Vuex4+Firebase example
 ## Project setup
 ```
 npm install
@@ -10,15 +10,5 @@ npm install
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+### Example execution flow
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
